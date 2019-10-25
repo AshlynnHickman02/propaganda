@@ -87,6 +87,7 @@ section#info h1{
 section#info p{
     display: block;
     background-color: rgb(47, 124, 51);
+    color:white;
     box-shadow: rgb(17, 17, 19) 3px 5px 3px 1px;
     font-size: 20px;
     text-align: center;
