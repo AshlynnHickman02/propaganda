@@ -1,1 +1,9 @@
 @charset "utf-8";
+/* Image Styles */
+#math{
+    display: block;
+    border: solid rgb(80, 80, 80) 5px;
+    box-shadow: rgb(17, 17, 19) 3px 5px 3px 1px;
+    width: 60%;
+    margin: auto;
+}
